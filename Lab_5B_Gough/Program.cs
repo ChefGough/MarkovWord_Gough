@@ -6,7 +6,7 @@ namespace Lab_5B_Gough
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
